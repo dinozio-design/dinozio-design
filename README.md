@@ -1,16 +1,17 @@
 ### Hi there 👋
+My Name is Sam Azimi and I am a Node.js developer.
 
-<!--
-**dinozio-design/dinozio-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | JavaScript | Node.js | MERN Stack | Open-Source Enthusiast 🌐
 
-Here are some ideas to get you started:
+Passionate about creating robust, scalable web applications with a focus on the MERN (MongoDB, Express.js, React, Node.js) stack. Proficient in JavaScript, I bring expertise in building dynamic, interactive user interfaces and seamless server-side operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies:
+- Frontend: React, Redux, HTML5, CSS3, SASS/LESS
+- Backend: Node.js, Express.js, MongoDB, Mongoose
+- DevOps: Docker, Kubernetes, AWS, Heroku
+- Testing: Mocha, Chai, Jest
+
+🌱 Currently exploring: GraphQL, TypeScript, and Serverless Architectures.
+
+👥 Let's collaborate! Feel free to reach out for contributions, code reviews, or project discussions. Open to learning and sharing knowledge with the developer community. Together, we can build amazing things! 🚀
+
