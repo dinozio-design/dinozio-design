@@ -3,7 +3,7 @@ My Name is <strong>Sam Azimi</strong> and I am a Node.js developer.
 
 🚀 Full-Stack Developer | JavaScript | Node.js | MERN Stack | Open-Source Enthusiast 🌐
 
-Passionate about creating robust, scalable web applications with a focus on the MERN (MongoDB, Express.js, React, Node.js) stack. Proficient in JavaScript, I bring expertise in building dynamic, interactive user interfaces and seamless server-side operations.
+I am passionate about creating robust, scalable web applications with a focus on the MERN (MongoDB, Express.js, React, Node.js) stack. Proficient in JavaScript, I bring expertise in building dynamic, interactive user interfaces and seamless server-side operations.
 
 🛠️ Technologies:
 - Frontend: React, Redux, HTML5, CSS3, SASS/LESS
