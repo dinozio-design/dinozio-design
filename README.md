@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name is Sam Azimi and I am a Node.js developer.
+My Name is <strong>Sam Azimi</strong> and I am a Node.js developer.
 
 🚀 Full-Stack Developer | JavaScript | Node.js | MERN Stack | Open-Source Enthusiast 🌐
 
